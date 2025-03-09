@@ -8,6 +8,6 @@ public class pollproject {
 		System.out.println("testing again");
 		System.out.println("poll test on jenkins");
 System.out.println("test again for re-check");
+System.out.println("test for poll scm");
 	}
-
 }
